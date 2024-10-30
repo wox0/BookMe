@@ -1,0 +1,9 @@
+﻿[
+  {
+    "HotelId": "H1",
+    "Arrival": "20240901",
+    "Departure": "20240903",
+    "RoomType": "DBL",
+    "RoomRate": "Prepaid"
+  }
+]

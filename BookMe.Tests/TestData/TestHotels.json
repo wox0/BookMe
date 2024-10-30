@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": "H1",
+    "Name": "Hotel California",
+    "RoomTypes": [
+      {
+        "Code": "SGL",
+        "Description": "Single Room",
+        "Amenities": ["WiFi", "TV"],
+        "Features": ["Non-smoking"]
+      }
+    ],
+    "Rooms": [
+      {
+        "RoomType": "SGL",
+        "RoomId": "101"
+      }
+    ]
+  }
+]
