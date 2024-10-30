@@ -20,7 +20,7 @@ public class DateParser
         }
         catch (Exception e)
         {
-            Console.WriteLine($"Wrong date format. ({DateFormat} or {DateFormat}-{DateFormat})");
+            Console.WriteLine($"Wrong date format. Use {DateFormat} or {DateFormat}-{DateFormat} format.");
             throw;
         }
     }
